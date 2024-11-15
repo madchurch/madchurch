@@ -1,0 +1,6 @@
+- Hello, my name is Madison Church (@madchurch)!
+- I’m currently learning both R and Python while completing a Master's of Library and Information Studies degree.
+- I work as a GTA for the Carl Albert Center Congressional Archive at the University of Oklahoma.
+- I do lots of knitting/sewing and will use data from these hobbies to learn R (hopefully).
+- My email is madisonchurch18@gmail.com if you would like to contact me.
+- :) 
